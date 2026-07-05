@@ -1,4 +1,1 @@
-- hi !!!
-- i'm the quote un quote see ee oh of the "company" star system modelers
-- i'm an idiot
-- i make rings for a living
+local idiot
